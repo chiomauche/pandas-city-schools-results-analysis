@@ -21,7 +21,10 @@ To help a school board and mayor make strategic decisions regarding future schoo
 
   * Bottom performing school
   ![Alt text](<Screenshot 2023-10-25 044529.png>)
-  
+
 * A Charter School,Pena High School, had the highest performing score in math(>90%), following the other Charter Schools.
 
+![Alt text](<Screenshot 2023-10-25 045412.png>)
+
 * 11th graders from Holden High School had the highest performance in math, and the 12th graders from Pena High School had the highest performance in Reading.
+
