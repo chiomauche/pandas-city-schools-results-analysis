@@ -28,3 +28,4 @@ To help a school board and mayor make strategic decisions regarding future schoo
 
 * 11th graders from Holden High School had the highest performance in math, and the 12th graders from Pena High School had the highest performance in Reading.
 
+![Alt text](<Screenshot 2023-10-25 045833.png>)
