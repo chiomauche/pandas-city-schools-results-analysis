@@ -15,8 +15,13 @@ To help a school board and mayor make strategic decisions regarding future schoo
 
 ![Alt text](<Screenshot 2023-10-25 044133.png>)
 
-* In % passing rate, the highest performing schools are Charter School Type with >90%, while the bottomperforming schools by % overall passing are District School Type.
+* In % passing rate, the highest performing schools are Charter School Type with >90%, while the bottom performing schools by % overall passing are District School Type.
+  * Highest performing school
+![Alt text](<Screenshot 2023-10-25 044430.png>)
 
+  * Bottom performing school
+  ![Alt text](<Screenshot 2023-10-25 044529.png>)
+  
 * A Charter School,Pena High School, had the highest performing score in math(>90%), following the other Charter Schools.
 
 * 11th graders from Holden High School had the highest performance in math, and the 12th graders from Pena High School had the highest performance in Reading.
